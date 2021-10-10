@@ -1,0 +1,12 @@
+Sorted container:
+Container contains 10 elements.
+0: It is Cartoon: type = PUPPET. Name = RoFPGbcAyd. Date = 2930. Task result: 293.000000
+1: It is Gaming: director name = WgrscVCblTgvsjKErqKvtsmJABasnkHYybYiMeOziHiqPYduwfszsHpfWAeqmZrldABWpOuNYDaBAoUFDblQYSAQWIkbfpGzvkinGmqBwocPPNZNGBHPApIePknkymjatXeWDCQkUWzEEUhUwibsQEFDIdsvjxbJNoBmARZZxcfQcpbgZaoZIOGmbvenbBVUUhonVYswPMusJjAIVZkccxQUreWhYcuDfQPRicvOzwyDoYzxsfbUcnasAqUznIG. Name = FMOeEXCmAV. Date = 2811. Task result: 281.100000
+2: It is Cartoon: type = PLASTICINE. Name = RDeYnuAvrZ. Date = 2551. Task result: 255.100000
+3: It is Documentary: time = 30246. Name = tVjbTHclOU. Date = 2359. Task result: 235.900000
+4: It is Cartoon: type = PUPPET. Name = APRfjEaKfQ. Date = 2078. Task result: 207.800000
+5: It is Cartoon: type = PLASTICINE. Name = CxZJTVUzaS. Date = 2037. Task result: 203.700000
+6: It is Gaming: director name = cuEkKvBqYZPsdjGQkxidINcdACFqYYmTTOwhWAKChFNoBUgxVhkthGRgkqaekGpBwXiydzyqprnCgYyQPhwITJJkyVeghYwIdoeepkIywwIlvFNqKyRboWrnIeqahBNqkrTBYfEDSglpztkKDoENLYgbdHtyZqdrACtwNXXoUnBrytgdYXMejwHTYuoYezTRQWKGnRxygBtaGhphKeKLWjRQrMfiyYBuabjnAxJHrpEuBRCMaiubLLilVFVCrZT. Name = ltzMFEPwuH. Date = 2013. Task result: 201.300000
+7: It is Documentary: time = 29421. Name = HjpswAgmUQ. Date = 1955. Task result: 195.500000
+8: It is Cartoon: type = PLASTICINE. Name = hnyXbemsNX. Date = 1948. Task result: 194.800000
+9: It is Gaming: director name = ZCGJumDapoJBWyCHMtCsrFnbyYlSMRzmDBGdnjzFkhywWpQwgYGpfwTYZOcvJIZSYDUEgvpvUtcUltGGYKIEMTRFwDToQvBQYKPWGaKwOZVUGuUSrJrippbiptpmtcNcwcVmsAVCQeehyNgDtjBDedbOoGbIZaOBzQAFfFEfgerjnERWirIubVGlXkFbDtcoZudCxSRzCvwFbUmPDRJnxQktExiebtLomNQCMBtrgHVQyioJHxQbPOwLOvICZuL. Name = giBVjXqezR. Date = 1759. Task result: 175.900000
