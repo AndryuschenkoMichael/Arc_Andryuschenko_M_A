@@ -1,12 +1,12 @@
 //
-// Created by Andryuschenko Michail on 2021.
+// Реализация функционала класса rnd.
 //
 
-#include "rnd.h"
-#include <string.h>
+#include "Headers/rnd.h"
+#include <cstring>
 
-// Случайная строка. Использует выделенную память.
-char *RandomString(char *str, size_t size) {
+// Функция генерирующая случайную строку указанного размера.
+char *rnd::RandomString(char *str, size_t size) {
     const char *charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
     if (size) {
         --size;
