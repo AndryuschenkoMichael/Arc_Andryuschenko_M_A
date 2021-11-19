@@ -1,6 +1,0 @@
-Filled container:
-Container contains 4 elements.
-0: It is Gaming: director name = Georgy_Bronitskiy. Name = Sex_Educational. Date = 2017. Task result: 134.466667
-1: It is Cartoon: type = DRAWN. Name = Braking_Bad. Date = 2003. Task result: 182.090909
-2: It is Documentary: time = 1283471. Name = Minimaxi(Taxi). Date = 2002. Task result: 143.000000
-3: It is Documentary: time = 1234. Name = Case_Do(with_Leonardo). Date = 1605. Task result: 72.954545

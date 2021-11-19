@@ -1,0 +1,12 @@
+Filled container:
+Container contains 10 elements.
+0: It is Cartoon: type = PUPPET. Name = RPWEVSJGQB. Year = 1941. Task result: 194.100000
+1: It is Cartoon: type = DRAWN. Name = VwpUAoSKqB. Year = 2005. Task result: 200.500000
+2: It is Gaming: Director = EcJAvtnUtt. Name = ZqlDuRNRHL. Year = 1987. Task result: 198.700000
+3: It is Gaming: Director = FtoYVFjAYi. Name = zCMclNJEPw. Year = 1982. Task result: 198.200000
+4: It is Gaming: Director = mFZyckoXkJ. Name = ZFMkSgItCl. Year = 1978. Task result: 197.800000
+5: It is Documentary: Time = 32265. Name = mxKRZrlFcI. Year = 1911. Task result: 191.100000
+6: It is Documentary: Time = 3068. Name = bLaHnKturk. Year = 1930. Task result: 193.000000
+7: It is Documentary: Time = 13153. Name = voyyQrNzHF. Year = 2011. Task result: 201.100000
+8: It is Gaming: Director = STecYRkjdM. Name = TMbYMlCftB. Year = 1931. Task result: 193.100000
+9: It is Gaming: Director = IdZAplaQFl. Name = qObLCSOwGA. Year = 1905. Task result: 190.500000

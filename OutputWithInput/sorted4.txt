@@ -1,0 +1,5 @@
+Sorted container:
+Container contains 3 elements.
+0: It is Cartoon: type = DRAWN. Name = Sous_up. Year = 2018. Task result: 288.285714
+1: It is Gaming: Director = Linevscki. Name = Varcraft. Year = 2010. Task result: 251.250000
+2: It is Documentary: Time = 190. Name = USSR_COOL. Year = 2000. Task result: 222.222222

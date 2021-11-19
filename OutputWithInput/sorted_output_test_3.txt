@@ -1,4 +1,0 @@
-Sorted container:
-Container contains 2 elements.
-0: It is Cartoon: type = DRAWN. Name = Braking_Bad. Date = 2003. Task result: 182.090909
-1: It is Gaming: director name = Georgy_Bronitskiy. Name = Sex_Educational. Date = 2017. Task result: 134.466667

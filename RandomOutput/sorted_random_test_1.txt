@@ -1,3 +1,0 @@
-Sorted container:
-Container contains 1 elements.
-0: It is Documentary: time = 8239. Name = IKVVWnXyZE. Date = 2427. Task result: 242.700000

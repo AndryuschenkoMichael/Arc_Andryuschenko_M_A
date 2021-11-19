@@ -1,0 +1,4 @@
+Filled container:
+Container contains 2 elements.
+0: It is Cartoon: type = DRAWN. Name = Sous_up. Year = 2018. Task result: 288.285714
+1: It is Documentary: Time = 190. Name = USSR_COOL. Year = 2000. Task result: 222.222222

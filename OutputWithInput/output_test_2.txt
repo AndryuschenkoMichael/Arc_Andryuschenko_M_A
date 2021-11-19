@@ -1,3 +1,0 @@
-Filled container:
-Container contains 1 elements.
-0: It is Cartoon: type = DRAWN. Name = Braking_Bad. Date = 2003. Task result: 182.090909
